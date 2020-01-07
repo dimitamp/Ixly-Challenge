@@ -33,5 +33,9 @@ $ npm run dev
 - Start in production:
 
 ```bash
+$ npm run build
+```
+
+```bash
 $ npm start
 ```
