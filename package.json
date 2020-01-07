@@ -19,7 +19,7 @@
     "url": "https://github.com/dimitamp/Ixly-Challenge/issues"
   },
   "homepage": "https://github.com/dimitamp/Ixly-Challenge#readme",
-  "lintDependencies": {
+  "devDependencies": {
     "concurrently": "^5.0.2"
   },
   "dependencies": {}
